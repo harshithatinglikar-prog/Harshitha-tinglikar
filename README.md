@@ -17,7 +17,7 @@ I focus on transforming raw, complex data into clear business insights—combini
 ---
 
 ### What I work with
-![My Skills](https://skillicons.dev)](https://skillicons.dev)
+![My Skills](https://skillicons.dev)](https://skillicons.dev...),
 ---
 
 ### 🔗 Focus areas
