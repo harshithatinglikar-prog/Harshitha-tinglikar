@@ -17,7 +17,15 @@ I focus on transforming raw, complex data into clear business insights—combini
 ---
 
 ### What I work with
-![My Skills](https://skillicons.dev)](https://skillicons.dev...),
+<p align="left">
+  <img src="https://githubusercontent.com" alt="python" width="22" height="22"/> <b>Python</b> &nbsp;•&nbsp;
+  <img src="https://githubusercontent.com" alt="mysql" width="22" height="22"/> <b>SQL / MySQL</b> &nbsp;•&nbsp;
+  <img src="https://githubusercontent.com" alt="powerbi" width="22" height="22"/> <b>Power BI</b> &nbsp;•&nbsp;
+  <img src="https://githubusercontent.com" alt="pandas" width="22" height="22"/> <b>Pandas</b> &nbsp;•&nbsp;
+  <img src="https://githubusercontent.com" alt="numpy" width="22" height="22"/> <b>NumPy</b> &nbsp;•&nbsp;
+  <img src="https://githubusercontent.com" alt="scikitlearn" width="22" height="22"/> <b>Scikit-Learn</b> &nbsp;•&nbsp;
+  <img src="https://githubusercontent.com" alt="tensorflow" width="22" height="22"/> <b>TensorFlow</b>
+</p>
 ---
 
 ### 🔗 Focus areas
