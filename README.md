@@ -17,17 +17,7 @@ I focus on transforming raw, complex data into clear business insights—combini
 ---
 
 ### What I work with
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![MySQL](https://shields.io)
-![Power BI](https://shields.io)
-![Tableau](https://shields.io)
-![Excel](https://shields.io)
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![TensorFlow](https://shields.io)
-
+![My Skills](https://skillicons.dev)](https://skillicons.dev)
 ---
 
 ### 🔗 Focus areas
