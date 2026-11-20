@@ -1,4 +1,4 @@
-# Harshitha-tinglikar
+                                                                 Harshitha-tinglikar
 # Hi, I'm Harshitha Tinglikar 👋
 
 ### Data Analyst & B.Sc. Data Science Graduate | Analytics & Machine Learning
